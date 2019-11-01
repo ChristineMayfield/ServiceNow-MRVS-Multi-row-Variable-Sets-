@@ -1,0 +1,88 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update>
+    <sys_ui_related action="DELETE" sys_domain="global" table="x_69648_mexican_fo_customer_location" version="2" view="">
+        <sys_ui_related_list_entry action="INSERT_OR_UPDATE">
+            <filter/>
+            <list_id display_value="Customer Location - Default view" name="x_69648_mexican_fo_customer_location" related_list="NULL" sys_domain="global" view="Default view">bf6b836cdb70001070b929e1ca961921</list_id>
+            <order_by/>
+            <position>0</position>
+            <related_list/>
+            <sys_class_name>sys_ui_related_list_entry</sys_class_name>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2019-10-26 21:51:19</sys_created_on>
+            <sys_id>736b836cdb70001070b929e1ca961923</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2019-10-26 21:51:19</sys_updated_on>
+        </sys_ui_related_list_entry>
+        <sys_ui_related_list action="INSERT_OR_UPDATE">
+            <calculated_name>Customer Location - Default view</calculated_name>
+            <filter/>
+            <name>x_69648_mexican_fo_customer_location</name>
+            <order_by/>
+            <position/>
+            <related_list/>
+            <sys_class_name>sys_ui_related_list</sys_class_name>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2019-10-26 21:51:19</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>bf6b836cdb70001070b929e1ca961921</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_name>Customer Location - Default view</sys_name>
+            <sys_package display_value="Mexican Food" source="x_69648_mexican_fo">b3d78b73db20001070b929e1ca9619c4</sys_package>
+            <sys_policy/>
+            <sys_scope display_value="Mexican Food">b3d78b73db20001070b929e1ca9619c4</sys_scope>
+            <sys_update_name>sys_ui_related_x_69648_mexican_fo_customer_location_null</sys_update_name>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2019-10-26 21:51:19</sys_updated_on>
+            <sys_user/>
+            <view display_value="Default view" name="NULL">Default view</view>
+            <view_name/>
+        </sys_ui_related_list>
+    </sys_ui_related>
+    <sys_update_version action="INSERT_OR_UPDATE">
+        <action>DELETE</action>
+        <application display_value="Mexican Food">b3d78b73db20001070b929e1ca9619c4</application>
+        <file_path/>
+        <instance_id>d8ba2ac4db383340387021c4059619c1</instance_id>
+        <instance_name>dev79842</instance_name>
+        <name>sys_ui_related_x_69648_mexican_fo_customer_location_null</name>
+        <payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update><sys_ui_related sys_domain="global" table="x_69648_mexican_fo_customer_location" version="2" view=""><sys_ui_related_list_entry action="INSERT_OR_UPDATE"><filter/><list_id display_value="Customer Location - Default view" name="x_69648_mexican_fo_customer_location" related_list="NULL" sys_domain="global" view="Default view">bf6b836cdb70001070b929e1ca961921</list_id><order_by/><position>0</position><related_list/><sys_class_name>sys_ui_related_list_entry</sys_class_name><sys_created_by>admin</sys_created_by><sys_created_on>2019-10-26 21:51:19</sys_created_on><sys_id>736b836cdb70001070b929e1ca961923</sys_id><sys_mod_count>0</sys_mod_count><sys_updated_by>admin</sys_updated_by><sys_updated_on>2019-10-26 21:51:19</sys_updated_on></sys_ui_related_list_entry><sys_ui_related_list action="INSERT_OR_UPDATE"><calculated_name>Customer Location - Default view</calculated_name><filter/><name>x_69648_mexican_fo_customer_location</name><order_by/><position/><related_list/><sys_class_name>sys_ui_related_list</sys_class_name><sys_created_by>admin</sys_created_by><sys_created_on>2019-10-26 21:51:19</sys_created_on><sys_domain>global</sys_domain><sys_domain_path>/</sys_domain_path><sys_id>bf6b836cdb70001070b929e1ca961921</sys_id><sys_mod_count>0</sys_mod_count><sys_name>Customer Location - Default view</sys_name><sys_package display_value="Mexican Food" source="x_69648_mexican_fo">b3d78b73db20001070b929e1ca9619c4</sys_package><sys_policy/><sys_scope display_value="Mexican Food">b3d78b73db20001070b929e1ca9619c4</sys_scope><sys_update_name>sys_ui_related_x_69648_mexican_fo_customer_location_null</sys_update_name><sys_updated_by>admin</sys_updated_by><sys_updated_on>2019-10-26 21:51:19</sys_updated_on><sys_user/><view display_value="Default view" name="NULL">Default view</view><view_name/></sys_ui_related_list></sys_ui_related></record_update>]]></payload>
+        <payload_hash>34928931</payload_hash>
+        <record_name>Customer Location</record_name>
+        <reverted_from/>
+        <source>77d747f7db20001070b929e1ca9619d2</source>
+        <source_table>sys_update_set</source_table>
+        <state>previous</state>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2019-10-26 21:51:19</sys_created_on>
+        <sys_id>ff6b836cdb70001070b929e1ca961924</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_recorded_at>16e0a0d629f0000001</sys_recorded_at>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2019-10-26 21:51:19</sys_updated_on>
+        <type>Related Lists</type>
+        <update_guid>7b6b836c33700010b3d6c52895a0c824</update_guid>
+        <update_guid_history>7b6b836c33700010b3d6c52895a0c824:34928931</update_guid_history>
+    </sys_update_version>
+    <sys_metadata_delete action="INSERT_OR_UPDATE">
+        <sys_audit_delete/>
+        <sys_class_name>sys_metadata_delete</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2019-10-30 20:50:21</sys_created_on>
+        <sys_db_object display_value="" name="sys_ui_related_list">sys_ui_related_list</sys_db_object>
+        <sys_id>42d91bca99f941ac94b46a1e0e2adf10</sys_id>
+        <sys_metadata>bf6b836cdb70001070b929e1ca961921</sys_metadata>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Customer Location - Default view</sys_name>
+        <sys_package display_value="Mexican Food" source="x_69648_mexican_fo">b3d78b73db20001070b929e1ca9619c4</sys_package>
+        <sys_parent display_value="">8569cfa8db70001070b929e1ca961974</sys_parent>
+        <sys_policy/>
+        <sys_scope display_value="Mexican Food">b3d78b73db20001070b929e1ca9619c4</sys_scope>
+        <sys_scope_delete display_value="">558f1dcd0b9b4f9ba37ac3347a06a851</sys_scope_delete>
+        <sys_update_name>sys_ui_related_x_69648_mexican_fo_customer_location_null</sys_update_name>
+        <sys_update_version display_value="sys_ui_related_x_69648_mexican_fo_customer_location_null">ff6b836cdb70001070b929e1ca961924</sys_update_version>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2019-10-30 20:50:21</sys_updated_on>
+    </sys_metadata_delete>
+</record_update>

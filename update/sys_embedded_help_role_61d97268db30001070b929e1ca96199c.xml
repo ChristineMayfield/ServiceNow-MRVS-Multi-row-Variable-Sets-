@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_embedded_help_role">
+    <sys_embedded_help_role action="INSERT_OR_UPDATE">
+        <order>1000</order>
+        <role/>
+        <sys_class_name>sys_embedded_help_role</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2019-10-26 20:34:26</sys_created_on>
+        <sys_id>61d97268db30001070b929e1ca96199c</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>edd9be28db30001070b929e1ca96193d</sys_name>
+        <sys_package display_value="Mexican Food" source="x_69648_mexican_fo">b3d78b73db20001070b929e1ca9619c4</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Mexican Food">b3d78b73db20001070b929e1ca9619c4</sys_scope>
+        <sys_update_name>sys_embedded_help_role_61d97268db30001070b929e1ca96199c</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2019-10-26 20:34:26</sys_updated_on>
+    </sys_embedded_help_role>
+</record_update>

@@ -1,0 +1,3 @@
+<?xml version="1.0" encoding="UTF-8"?><database>
+    <element extends="cmn_location" label="Taco Delivery Location" max_length="40" name="x_69648_mexican_fo_taco_delivery_location" type="collection"/>
+</database>

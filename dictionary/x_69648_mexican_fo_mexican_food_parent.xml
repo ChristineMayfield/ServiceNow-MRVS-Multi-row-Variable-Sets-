@@ -1,0 +1,3 @@
+<?xml version="1.0" encoding="UTF-8"?><database>
+    <element extends="task" label="Mexican Food Parent" max_length="40" name="x_69648_mexican_fo_mexican_food_parent" type="collection"/>
+</database>

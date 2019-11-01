@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?><database>
+    <element label="Taco" max_length="40" name="x_69648_mexican_fo_taco" type="collection">
+        <element label="Add Jalapenos" max_length="40" name="add_jalapenos" type="boolean"/>
+        <element label="Cheese" max_length="40" name="cheese" type="boolean"/>
+        <element choice="1" label="Crunchy / Soft" max_length="40" name="crunchy_soft" type="choice">
+            <choice>
+                <element inactive_on_update="false" label="Crunchy" value="Crunchy"/>
+                <element inactive_on_update="false" label="Soft" value="Soft"/>
+            </choice>
+        </element>
+        <element label="Meat" mandatory="true" max_length="32" name="meat" reference="x_69648_mexican_fo_meat" type="reference"/>
+        <element attributes="ignore_filter_on_new=true" default="javascript:global.getNextObjNumberPadded();" label="Number" max_length="40" name="number" type="string"/>
+        <element label="Parent" max_length="32" name="parent" read_only="true" reference="x_69648_mexican_fo_taco_delivery" type="reference"/>
+        <element label="PIco De Gallo" max_length="40" name="pico_de_gallo" type="boolean"/>
+        <element label="Price" max_length="40" name="price" read_only="true" type="string"/>
+        <element choice="1" label="Tortilla" max_length="40" name="tortilla" type="choice">
+            <choice>
+                <element inactive_on_update="false" label="Corn" value="Corn"/>
+                <element inactive_on_update="false" label="Flour" value="Flour"/>
+            </choice>
+        </element>
+        <index name="index">
+            <element name="parent"/>
+        </index>
+        <index name="index2">
+            <element name="meat"/>
+        </index>
+    </element>
+</database>
