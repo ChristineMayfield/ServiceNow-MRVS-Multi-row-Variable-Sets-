@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_metadata_link">
+    <sys_metadata_link action="INSERT_OR_UPDATE">
+        <directory>unload</directory>
+        <documentkey>578bb2a8db30001070b929e1ca9619c9</documentkey>
+        <payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update table="x_69648_mexican_fo_taco_delivery_location">
+    <x_69648_mexican_fo_taco_delivery_location action="INSERT_OR_UPDATE">
+        <city>Manhattan Beach</city>
+        <company/>
+        <contact/>
+        <correlation_id/>
+        <country>USA</country>
+        <fax_phone/>
+        <full_name>Manhattan Beach Rosecrans</full_name>
+        <lat_long_error/>
+        <latitude/>
+        <longitude/>
+        <name>Manhattan Beach Rosecrans</name>
+        <parent display_value="California">f03dc1f037d0200044e0bfc8bcbe5d29</parent>
+        <phone/>
+        <phone_territory/>
+        <source/>
+        <state>CA</state>
+        <stock_room>false</stock_room>
+        <street/>
+        <sys_class_name>x_69648_mexican_fo_taco_delivery_location</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2019-10-26 20:42:40</sys_created_on>
+        <sys_id>578bb2a8db30001070b929e1ca9619c9</sys_id>
+        <sys_mod_count>1</sys_mod_count>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2019-10-26 20:43:05</sys_updated_on>
+        <time_zone/>
+        <zip>90266</zip>
+    </x_69648_mexican_fo_taco_delivery_location>
+</record_update>
+]]></payload>
+        <sys_class_name>sys_metadata_link</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2019-11-04 11:11:59</sys_created_on>
+        <sys_id>126f4b57db30001070b929e1ca961962</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name/>
+        <sys_package display_value="Mexican Food" source="x_69648_mexican_fo">b3d78b73db20001070b929e1ca9619c4</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Mexican Food">b3d78b73db20001070b929e1ca9619c4</sys_scope>
+        <sys_update_name>sys_metadata_link_126f4b57db30001070b929e1ca961962</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2019-11-04 11:11:59</sys_updated_on>
+        <tablename>x_69648_mexican_fo_taco_delivery_locatio</tablename>
+    </sys_metadata_link>
+</record_update>
