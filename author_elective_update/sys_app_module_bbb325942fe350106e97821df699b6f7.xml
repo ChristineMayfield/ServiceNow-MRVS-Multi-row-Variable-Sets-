@@ -1,0 +1,87 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update sys_domain="global" table="sys_app_module">
+    <sys_app_module action="DELETE">
+        <active>true</active>
+        <application display_value="Mexican Food">2cb843b3db20001070b929e1ca9619cb</application>
+        <assessment/>
+        <device_type/>
+        <filter/>
+        <hint/>
+        <homepage/>
+        <image/>
+        <link_type>LIST</link_type>
+        <map_page/>
+        <mobile_title>tests</mobile_title>
+        <mobile_view_name>Mobile</mobile_view_name>
+        <name>x_69648_mexican_fo_test</name>
+        <order/>
+        <override_menu_roles>false</override_menu_roles>
+        <query/>
+        <report/>
+        <roles>x_69648_mexican_fo.mexican_food_user</roles>
+        <sys_class_name>sys_app_module</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2020-09-25 08:43:39</sys_created_on>
+        <sys_domain>global</sys_domain>
+        <sys_domain_path>/</sys_domain_path>
+        <sys_id>bbb325942fe350106e97821df699b6f7</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>tests</sys_name>
+        <sys_overrides/>
+        <sys_package display_value="Mexican Food" source="x_69648_mexican_fo">b3d78b73db20001070b929e1ca9619c4</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Mexican Food">b3d78b73db20001070b929e1ca9619c4</sys_scope>
+        <sys_update_name>sys_app_module_bbb325942fe350106e97821df699b6f7</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2020-09-25 08:43:39</sys_updated_on>
+        <timeline_page/>
+        <title>tests</title>
+        <uncancelable>false</uncancelable>
+        <view_name/>
+        <window_name/>
+    </sys_app_module>
+    <sys_update_version action="INSERT_OR_UPDATE">
+        <action>DELETE</action>
+        <application display_value="Mexican Food">b3d78b73db20001070b929e1ca9619c4</application>
+        <file_path/>
+        <instance_id>d8ba2ac4db383340387021c4059619c1</instance_id>
+        <instance_name>dev79842</instance_name>
+        <name>sys_app_module_bbb325942fe350106e97821df699b6f7</name>
+        <payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update sys_domain="global" table="sys_app_module"><sys_app_module action="INSERT_OR_UPDATE"><active>true</active><application display_value="Mexican Food">2cb843b3db20001070b929e1ca9619cb</application><assessment/><device_type/><filter/><hint/><homepage/><image/><link_type>LIST</link_type><map_page/><mobile_title>tests</mobile_title><mobile_view_name>Mobile</mobile_view_name><name>x_69648_mexican_fo_test</name><order/><override_menu_roles>false</override_menu_roles><query/><report/><roles>x_69648_mexican_fo.mexican_food_user</roles><sys_class_name>sys_app_module</sys_class_name><sys_created_by>admin</sys_created_by><sys_created_on>2020-09-25 08:43:39</sys_created_on><sys_domain>global</sys_domain><sys_domain_path>/</sys_domain_path><sys_id>bbb325942fe350106e97821df699b6f7</sys_id><sys_mod_count>0</sys_mod_count><sys_name>tests</sys_name><sys_overrides/><sys_package display_value="Mexican Food" source="x_69648_mexican_fo">b3d78b73db20001070b929e1ca9619c4</sys_package><sys_policy/><sys_scope display_value="Mexican Food">b3d78b73db20001070b929e1ca9619c4</sys_scope><sys_update_name>sys_app_module_bbb325942fe350106e97821df699b6f7</sys_update_name><sys_updated_by>admin</sys_updated_by><sys_updated_on>2020-09-25 08:43:39</sys_updated_on><timeline_page/><title>tests</title><uncancelable>false</uncancelable><view_name/><window_name/></sys_app_module></record_update>]]></payload>
+        <payload_hash>-1242097437</payload_hash>
+        <record_name>tests</record_name>
+        <reverted_from/>
+        <source>ed431a8c2fe710106e97821df699b6c2</source>
+        <source_table>sys_update_set</source_table>
+        <state>previous</state>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2020-09-25 08:43:39</sys_created_on>
+        <sys_id>fbb325942fe350106e97821df699b6f9</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_recorded_at>174c46ea5bf0000001</sys_recorded_at>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2020-09-25 08:43:39</sys_updated_on>
+        <type>Module</type>
+        <update_guid>37b3259453e35010b3ca49664fa9def9</update_guid>
+        <update_guid_history>37b3259453e35010b3ca49664fa9def9:-1242097437</update_guid_history>
+    </sys_update_version>
+    <sys_metadata_delete action="INSERT_OR_UPDATE">
+        <sys_audit_delete display_value="tests">e3e3a9942fe350106e97821df699b64e</sys_audit_delete>
+        <sys_class_name>sys_metadata_delete</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2020-09-25 08:44:27</sys_created_on>
+        <sys_db_object display_value="" name="sys_app_module">sys_app_module</sys_db_object>
+        <sys_id>0feadf6e9c70429a96506bc87046af44</sys_id>
+        <sys_metadata>bbb325942fe350106e97821df699b6f7</sys_metadata>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>tests</sys_name>
+        <sys_package display_value="Mexican Food" source="x_69648_mexican_fo">b3d78b73db20001070b929e1ca9619c4</sys_package>
+        <sys_parent/>
+        <sys_policy/>
+        <sys_scope display_value="Mexican Food">b3d78b73db20001070b929e1ca9619c4</sys_scope>
+        <sys_scope_delete display_value="">558f1dcd0b9b4f9ba37ac3347a06a851</sys_scope_delete>
+        <sys_update_name>sys_app_module_bbb325942fe350106e97821df699b6f7</sys_update_name>
+        <sys_update_version display_value="sys_app_module_bbb325942fe350106e97821df699b6f7">fbb325942fe350106e97821df699b6f9</sys_update_version>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2020-09-25 08:44:27</sys_updated_on>
+    </sys_metadata_delete>
+</record_update>

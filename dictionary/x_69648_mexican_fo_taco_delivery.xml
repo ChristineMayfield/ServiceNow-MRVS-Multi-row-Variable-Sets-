@@ -1,8 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?><database>
     <element extends="x_69648_mexican_fo_mexican_food_parent" label="Taco Delivery" max_length="40" name="x_69648_mexican_fo_taco_delivery" type="collection">
+        <element attributes="edge_encryption_enabled=true,encode_utf8=false" label="Customer" max_length="32" name="customer" reference="x_69648_mexican_fo_st_customers" type="reference"/>
         <element label="Customer Email" mandatory="true" max_length="120" name="customer_email" type="string"/>
         <element label="Delivery Address" max_length="32" name="delivery_address" reference="x_69648_mexican_fo_customer_address" type="reference"/>
+        <element label="Instructions" max_length="400" name="instructions" type="string"/>
         <element label="Total Price" max_length="40" name="total_price" read_only="true" type="string"/>
-        <element label="Customer Name" max_length="120" name="customer_name" type="string"/>
     </element>
 </database>

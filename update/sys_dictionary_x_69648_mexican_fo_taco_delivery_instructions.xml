@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?><record_update>
-    <sys_dictionary action="INSERT_OR_UPDATE" element="customer_name" table="x_69648_mexican_fo_taco_delivery">
+    <sys_dictionary action="INSERT_OR_UPDATE" element="instructions" table="x_69648_mexican_fo_taco_delivery">
         <active>true</active>
         <array>false</array>
         <array_denormalized>false</array_denormalized>
@@ -14,7 +14,7 @@
         <choice/>
         <choice_field/>
         <choice_table/>
-        <column_label>Customer Name</column_label>
+        <column_label>Instructions</column_label>
         <comments/>
         <create_roles/>
         <default_value/>
@@ -27,14 +27,14 @@
         <dynamic_creation_script/>
         <dynamic_default_value/>
         <dynamic_ref_qual/>
-        <element>customer_name</element>
+        <element>instructions</element>
         <element_reference>false</element_reference>
         <foreign_database/>
         <function_definition/>
         <function_field>false</function_field>
         <internal_type display_value="String">string</internal_type>
         <mandatory>false</mandatory>
-        <max_length>120</max_length>
+        <max_length>400</max_length>
         <name>x_69648_mexican_fo_taco_delivery</name>
         <next_element/>
         <primary>false</primary>
@@ -52,16 +52,16 @@
         <staged>false</staged>
         <sys_class_name>sys_dictionary</sys_class_name>
         <sys_created_by>admin</sys_created_by>
-        <sys_created_on>2019-10-30 21:12:28</sys_created_on>
-        <sys_id>82d867f9db38001070b929e1ca96197b</sys_id>
+        <sys_created_on>2020-09-24 15:17:37</sys_created_on>
+        <sys_id>7b34f5c02fa710106e97821df699b62c</sys_id>
         <sys_mod_count>0</sys_mod_count>
-        <sys_name>Customer Name</sys_name>
+        <sys_name>Instructions</sys_name>
         <sys_package display_value="Mexican Food" source="x_69648_mexican_fo">b3d78b73db20001070b929e1ca9619c4</sys_package>
         <sys_policy/>
         <sys_scope display_value="Mexican Food">b3d78b73db20001070b929e1ca9619c4</sys_scope>
-        <sys_update_name>sys_dictionary_x_69648_mexican_fo_taco_delivery_customer_name</sys_update_name>
+        <sys_update_name>sys_dictionary_x_69648_mexican_fo_taco_delivery_instructions</sys_update_name>
         <sys_updated_by>admin</sys_updated_by>
-        <sys_updated_on>2019-10-30 21:12:28</sys_updated_on>
+        <sys_updated_on>2020-09-24 15:17:37</sys_updated_on>
         <table_reference>false</table_reference>
         <text_index>false</text_index>
         <unique>false</unique>

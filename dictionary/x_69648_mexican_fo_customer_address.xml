@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?><database>
     <element extends="cmn_location" label="Customer Address" max_length="40" name="x_69648_mexican_fo_customer_address" type="collection">
         <element label="Default Address" max_length="40" name="default_address" type="boolean"/>
-        <element label="Parent Form" max_length="32" name="parent_form" read_only="true" reference="x_69648_mexican_fo_taco_delivery" type="reference"/>
+        <element attributes="edge_encryption_enabled=true,encode_utf8=false" label="Parent Form" max_length="32" name="parent_form" reference="x_69648_mexican_fo_taco_delivery" type="reference"/>
         <index name="index">
             <element name="parent_form"/>
         </index>
