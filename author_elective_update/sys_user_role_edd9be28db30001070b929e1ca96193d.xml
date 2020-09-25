@@ -49,7 +49,7 @@
         <update_guid_history>25d972682130001022d7e493cd7df59d:527165022</update_guid_history>
     </sys_update_version>
     <sys_metadata_delete action="INSERT_OR_UPDATE">
-        <sys_audit_delete display_value="x_69648_mexican_fo.taco_delivery_location_user">c9c343e0db70001070b929e1ca9619f7</sys_audit_delete>
+        <sys_audit_delete display_value="">c9c343e0db70001070b929e1ca9619f7</sys_audit_delete>
         <sys_class_name>sys_metadata_delete</sys_class_name>
         <sys_created_by>admin</sys_created_by>
         <sys_created_on>2019-10-26 21:17:49</sys_created_on>

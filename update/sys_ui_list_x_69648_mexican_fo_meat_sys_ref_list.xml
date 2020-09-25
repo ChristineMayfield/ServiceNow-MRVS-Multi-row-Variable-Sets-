@@ -3,7 +3,7 @@
         <sys_ui_list_element action="INSERT_OR_UPDATE">
             <average_value>false</average_value>
             <element>name</element>
-            <list_id display_value="x_69648_mexican_fo_meat" element="NULL" name="x_69648_mexican_fo_meat" parent="NULL" relationship="NULL" sys_domain="global" view="f1f7227264232300aadba650cb85d47b">5e3dc3ecdb70001070b929e1ca9619d5</list_id>
+            <list_id display_value="x_69648_mexican_fo_meat" element="NULL" name="x_69648_mexican_fo_meat" parent="NULL" relationship="NULL" sys_domain="global" view="e24b0361db31001070b929e1ca9619c1">5e3dc3ecdb70001070b929e1ca9619d5</list_id>
             <max_value>false</max_value>
             <min_value>false</min_value>
             <position>0</position>
@@ -40,7 +40,7 @@
             <sys_updated_by>admin</sys_updated_by>
             <sys_updated_on>2019-10-26 21:59:08</sys_updated_on>
             <sys_user/>
-            <view display_value="Reference List" name="sys_ref_list">f1f7227264232300aadba650cb85d47b</view>
+            <view display_value="Reference List" name="sys_ref_list">e24b0361db31001070b929e1ca9619c1</view>
             <view_name/>
         </sys_ui_list>
     </sys_ui_list>

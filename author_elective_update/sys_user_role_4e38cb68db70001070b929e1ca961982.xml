@@ -49,7 +49,7 @@
         <update_guid_history>8238cb6875700010ba58ecd82c1a9a87:1417820421</update_guid_history>
     </sys_update_version>
     <sys_metadata_delete action="INSERT_OR_UPDATE">
-        <sys_audit_delete display_value="x_69648_mexican_fo.customer_address_user">5da01fd7db30001070b929e1ca9619ff</sys_audit_delete>
+        <sys_audit_delete display_value="">5da01fd7db30001070b929e1ca9619ff</sys_audit_delete>
         <sys_class_name>sys_metadata_delete</sys_class_name>
         <sys_created_by>admin</sys_created_by>
         <sys_created_on>2019-11-04 11:17:23</sys_created_on>

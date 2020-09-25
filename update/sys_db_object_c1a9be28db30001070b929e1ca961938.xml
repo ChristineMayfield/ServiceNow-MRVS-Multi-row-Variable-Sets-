@@ -18,7 +18,7 @@
         <provider_class/>
         <read_access>true</read_access>
         <scriptable_table>false</scriptable_table>
-        <super_class display_value="Location" name="cmn_location">1ee7aa3264232300aadba650cb85d458</super_class>
+        <super_class display_value="Location" name="cmn_location">533b8b21db31001070b929e1ca961997</super_class>
         <sys_class_code/>
         <sys_class_name>sys_db_object</sys_class_name>
         <sys_class_path/>

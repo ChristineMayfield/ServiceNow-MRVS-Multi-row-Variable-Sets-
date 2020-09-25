@@ -42,7 +42,7 @@
         <update_guid_history>8a98833b772000105954b91db5e68c9e:-644478726</update_guid_history>
     </sys_update_version>
     <sys_metadata_delete action="INSERT_OR_UPDATE">
-        <sys_audit_delete display_value="x_69648_mexican_fo_mexican_food_parent.x_69648_mexican_fo.mexican_food_user">de994bbbdb20001070b929e1ca96193e</sys_audit_delete>
+        <sys_audit_delete display_value="">de994bbbdb20001070b929e1ca96193e</sys_audit_delete>
         <sys_class_name>sys_metadata_delete</sys_class_name>
         <sys_created_by>admin</sys_created_by>
         <sys_created_on>2019-10-24 13:47:51</sys_created_on>

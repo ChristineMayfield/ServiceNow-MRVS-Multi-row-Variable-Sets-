@@ -68,7 +68,7 @@
         <update_guid_history>a8b8073b98200010c78411dbfe3de843:-1493532088</update_guid_history>
     </sys_update_version>
     <sys_metadata_delete action="INSERT_OR_UPDATE">
-        <sys_audit_delete display_value="Open">df21d24adb30001070b929e1ca961912</sys_audit_delete>
+        <sys_audit_delete display_value="">df21d24adb30001070b929e1ca961912</sys_audit_delete>
         <sys_class_name>sys_metadata_delete</sys_class_name>
         <sys_created_by>admin</sys_created_by>
         <sys_created_on>2019-10-31 09:27:40</sys_created_on>
